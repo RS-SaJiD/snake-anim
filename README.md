@@ -1,3 +1,7 @@
+![snake animation](https://raw.githubusercontent.com/RS-SaJiD/snake-anim/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake animation](https://raw.githubusercontent.com/RS-SaJiD/snake-anim/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RS-SaJiD&show_icons=true&theme=dark&icon_color=00fffe&text_color=ffffff&bg_color=0d1117&title_color=00fffe" alt="GitHub Stats" />
 </p>
